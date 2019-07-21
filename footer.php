@@ -1,7 +1,25 @@
 <div class="wrapper row4 ">
   <footer id="footer" class="hoc clear"> 
     <!--  -->
-    <div class="one_quarter first wow fadeInUp ">
+
+    <div class="one_quarter first wow fadeInUp">
+
+<div class="sdb_holder">
+
+
+
+  <h6>Representante Autorizado</h6>
+  <a href="https://www.fockink.ind.br"><img src="images/fockink.png" alt=""></a>
+  <a href="http://www.irritron.com.br/"><img src="images/irritron.png" alt=""></a>
+  <a href="https://altri.com.br/"><img src="images/altri.png" alt=""></a>
+
+
+
+
+</div>
+
+</div>
+    <div class="one_quarter  wow fadeInUp ">
 
       <div class="sdb_holder">
 
@@ -20,25 +38,7 @@
 
     </div>
 
-    <div class="one_quarter wow fadeInUp">
 
-<div class="sdb_holder">
-
-
-
-  <h6>Produtos</h6>
-<a class = "mapa" href="empresa.php">Produto 1</a><br><br>
-<a class = "mapa" href="#">Produto 2</a><br><br>
-<a class = "mapa" href="#">Produto 3</a><br><br>
-<a class = "mapa" href="#">Produto 4 </a><br><br>
-<a class = "mapa" href="#">Produto....</a><br><br>
-
-
-
-
-</div>
-
-</div>
    <!-- <div class="one_third">
       <h6 class="heading">Aenean lobortis quam at</h6>
       <ul class="nospace clear latestimg">

@@ -47,7 +47,7 @@
     <!--  -->
     <div class="sectiontitle">
       <h6 class="heading">POR QUE IRRIGAR? </h6>
-      <p> </p>
+
     </div>
     <div class="group center btmspace-80">
       <article class="one_third first"><span class="ringcon btmspace-50" href="#"><i class="fas fa-seedling"></i></span>
@@ -60,19 +60,19 @@
       </article>
       <article class="one_third"><span class="ringcon btmspace-50" href="#"><i class="fas fa-hand-holding-usd"></i></span>
         <h6 class="heading">ECONOMIZE<br> RECURSOS</h6>
-        <p>Possibilite maior eficiência no uso e maior facilidade de aplicação de fertilizantes.</p>
+        <p>Proporciona redução na mão de obra, sendo necessário apenas uma pessoa para operar o sistema de irrigação.</p>
       </article>
       <article class="one_third first"><span class="ringcon btmspace-50" href="#"><i class="fas fa-clock"></i></span>
         <h6 class="heading">ECONOMIZE TEMPO</h6>
-        <p>Possibilite maior eficiência no uso e maior facilidade de aplicação de fertilizantes.</p>
+        <p>Permite ajuste das janelas de plantio. Mais safras por ano.</p>
       </article>
-      <article class="one_third"><span class="ringcon btmspace-50" href="#"><i class="fas fa-tint"></i></span>
-        <h6 class="heading">CHUVA NA MEDIDA CERTA</h6>
-        <p>Alguns dias sem chuva pode causar uma enorme perda de produção. Com o IRRIAGRO sua cultura sempre terá água na medida certa.</p>
+      <article class="one_third"><span class="ringcon btmspace-50" href="#"><i class="fas fa-tractor"></i></span>
+        <h6 class="heading">MELHORE SUA PRODUÇÃO</h6>
+        <p>Permite fornecimento constante e uniforme de alimentos para vacas leiteiras, evitando a “quebra “na produção do leite</p>
       </article>
-      <article class="one_third"><span class="ringcon btmspace-50" href="#"><i class="fas fa-tint"></i></span>
-        <h6 class="heading">mais algum beneficio</h6>
-        <p>.</p>
+      <article class="one_third"><span class="ringcon btmspace-50" href="#"><i class="fas fa-leaf"></i></span>
+        <h6 class="heading">AUMENTE SUA PRODUÇÃO</h6>
+        <p>Amplia o período de produção e permite o escalonamento</p>
       </article>
     </div>
      <!-- <p class="center"><a class="btn" href="#">Consectetuer porttitor <i class="fas fa-angle-right"></i></a></p>
@@ -81,6 +81,8 @@
     <div class="clear"></div>
   </main>
 </div>
+
+
 <!--  -->
 <!--  -->
 <!--  -->
@@ -93,11 +95,66 @@
       <p>Nossa equipe vai até sua propriedade para conhecer as características de sua área e os recursos disponíveis como, agua, energia e a planialtimetria. Faremos um levantamento com GPS para a realização do Pré-projeto, estudo de viabilidade, qual melhor tipo de irrigação para sua necessidade e orçamento.</p>
       <p>  Com base no pré-projeto vamos iniciar os seguintes passos:</p>
       <p class="btmspace-30">...</p>
-      <p><a class="btn" href="#">Leia mais <i class="fas fa-angle-right"></i></a></p>
+      <p><a class="btn" href="quero.php">Leia mais <i class="fas fa-angle-right"></i></a></p>
     </article>
-    <figure class="one_third"><a class="imgover" href="#"><img src="images/demo/348x420.png" alt=""></a></figure>
-    <figure class="one_third"><a class="imgover" href="#"><img src="images/demo/348x420.png" alt=""></a></figure>
+    <figure class="two_third"><a class="imgover" href="quero.php"><img src="images/bg2.jpg" alt=""></a></figure>
+
     <!--  -->
+  </section>
+</div>
+<div class="wrapper row3">
+  <section class="hoc container clear"> 
+    <!-- ################################################################################################ 
+    <div class="sectiontitle">
+      <h6 class="heading">Facilidades para adquirir seu sistema</h6>
+      <p></p>
+    </div>
+    <ul class="nospace group btmspace-80 overview">
+      <li class="one_third">
+        <article><a href="#"><i class="fas fa-smile"></i></a>
+          <h6 class="heading"><a href="#">Parcelas Anuais Acessiveis</a></h6>
+          
+          <footer><a href="#">View Details <i class="fas fa-angle-right"></i></a></footer>
+        </article>
+      </li>
+      <li class="one_third">
+        <article><a href="#"><i class="fas fa-trash"></i></a>
+          <h6 class="heading"><a href="#">Facil Instalação independente do tipo de energia</a></h6>
+         
+          <footer><a href="#">View Details <i class="fas fa-angle-right"></i></a></footer>
+        </article>
+      </li>
+      <li class="one_third">
+        <article><a href="#"><i class="fas fa-life-ring"></i></a>
+          <h6 class="heading"><a href="#">Uso e manutenção simples</a></h6>
+        
+          <footer><a href="#">View Details <i class="fas fa-angle-right"></i></a></footer>
+        </article>
+      </li>
+      <li class="one_third">
+        <article><a href="#"><i class=" fas fa-low-vision"></i></a>
+          <h6 class="heading"><a href="#">SSistema para qualquer tamanho de area e qualquer tipo de terreno</a></h6>
+          <p>Donec cursus sapien neque gravida nulla cursus lorem ut tempor massa &hellip;</p>
+          <footer><a href="#">View Details <i class="fas fa-angle-right"></i></a></footer>
+        </article>
+      </li>
+      <li class="one_third">
+        <article><a href="#"><i class="fas fa-bug"></i></a>
+          <h6 class="heading"><a href="#">Porta libero at scelerisque</a></h6>
+          <p>Lorem ipsum et arcu mauris consequat semper vivamus lobortis consequat&hellip;</p>
+          <footer><a href="#">View Details <i class="fas fa-angle-right"></i></a></footer>
+        </article>
+      </li>
+      <li class="one_third">
+        <article><a href="#"><i class="fas fa-bicycle"></i></a>
+          <h6 class="heading"><a href="#">Purus fusce consectetuer</a></h6>
+          <p>Nisl in massa phasellus feugiat arcu sed lacinia egestas augue lorem posuere&hellip;</p>
+          <footer><a href="#">View Details</a> <i class="fas fa-angle-right"></i></footer>
+        </article>
+      </li>
+    </ul>
+    <footer class="center"><a class="btn" href="#">Vestibulum suspendisse <i class="fas fa-angle-right"></i></a></footer>
+    ################################################################################################ -->
   </section>
 </div>
 <div class="wrapper row3 wow fadeInUp">
