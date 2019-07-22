@@ -97,7 +97,7 @@
       <p class="btmspace-30">...</p>
       <p><a class="btn" href="quero.php">Leia mais <i class="fas fa-angle-right"></i></a></p>
     </article>
-    <figure class="two_third"><a class="imgover" href="quero.php"><img src="images/bg2.jpg" alt=""></a></figure>
+    <figure class="two_third"><a class="imgover" href="quero.php"><img src="images/bg3.jpg" alt=""></a></figure>
 
     <!--  -->
   </section>
