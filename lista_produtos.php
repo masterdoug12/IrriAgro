@@ -6,8 +6,8 @@
 		<!--  -->
 		<h6 class="heading">Produtos</h6>
 		<ul>
-			<li><a href="index.php">Home</a></li>
-			<li><a href="empresa.php">Produtos</a></li>
+			<li><a href="index">Home</a></li>
+			<li><a href="empresa">Produtos</a></li>
 			
 		</ul>
 		<!--  -->
@@ -22,7 +22,7 @@
         <div class="excerpt">
           <h6 class="heading">irrigação com...</h6>
           <p>Texto sobre o produto.</p>
-          <footer><a href="produto.php">Leia Mais <i class="fas fa-angle-right"></i></a></footer>
+          <footer><a href="produto">Leia Mais <i class="fas fa-angle-right"></i></a></footer>
         </div>
       </article>
       <article class="one_third"><a class="imgover" href="#"><img src="images/demo/348x261.png" alt=""></a>

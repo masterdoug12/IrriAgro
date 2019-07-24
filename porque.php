@@ -6,8 +6,8 @@
 		<!--  -->
 		<h6 class="heading">Por que Irrigar?</h6>
 		<ul>
-			<li><a href="index.php">Home</a></li>
-			<li><a href="quero.php">Por que Irrigar?</a></li>
+			<li><a href="index">Home</a></li>
+			<li><a href="quero">Por que Irrigar?</a></li>
 			
 		</ul>
 		<!--  -->

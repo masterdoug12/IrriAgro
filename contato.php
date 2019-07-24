@@ -6,8 +6,8 @@
 		<!--  -->
 		<h6 class="heading">Contato</h6>
 		<ul>
-			<li><a href="index.php">Home</a></li>
-			<li><a href="empresa.php">Contatos</a></li>
+			<li><a href="index">Home</a></li>
+			<li><a href="empresa">Contatos</a></li>
 			
 		</ul>
 		<!--  -->
@@ -45,7 +45,7 @@ Nº 466<br>
 Bairro Tiaraju - CEP: 98700-000<br> 
 Ijuí - RS
 </address>
-            <iframe id="mapa"  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1754.8379976838137!2d-53.916501716449616!3d-28.398852529446422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94fc2d598ec939bd%3A0x40eb0cc3fca1af2d!2sIrriagro+RS!5e0!3m2!1spt-BR!2sbr!4v1563129073656!5m2!1spt-BR!2sbr" width="750" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+            <iframe id="mapa"  src="http://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1754.8379976838137!2d-53.916501716449616!3d-28.398852529446422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94fc2d598ec939bd%3A0x40eb0cc3fca1af2d!2sIrriagro+RS!5e0!3m2!1spt-BR!2sbr!4v1563129073656!5m2!1spt-BR!2sbr" width="750" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
    
 </div>
 

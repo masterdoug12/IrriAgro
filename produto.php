@@ -6,8 +6,8 @@
 		<!--  -->
 		<h6 class="heading">Produtos</h6>
 		<ul>
-			<li><a href="index.php">Home</a></li>
-			<li><a href="empresa.php">Produtos</a></li>
+			<li><a href="index">Home</a></li>
+			<li><a href="empresa">Produtos</a></li>
 			
 		</ul>
 		<!--  -->

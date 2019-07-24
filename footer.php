@@ -25,11 +25,11 @@
 
 
         <h6>Acesso Rápido</h6>
-        <a class = "mapa" href="empresa.php">Empresa</a><br><br>
-        <a class = "mapa" href="#">Downloads</a><br><br>
-        <a class = "mapa" href="#">Produtos</a><br><br>
+        <a class = "mapa" href="empresa">Empresa</a><br><br>
+        <a class = "mapa" href="downloads">Downloads</a><br><br>
+        <a class = "mapa" href="produtos">Produtos</a><br><br>
 
-        <a class = "mapa" href="#">Contato</a><br><br>
+        <a class = "mapa" href="contato">Contato</a><br><br>
      
       
 
@@ -53,7 +53,7 @@
     <div class="one_third wow fadeInUp">
     <section >
                <h6>Curta nossa página</h6>
-               <iframe id="mapa"  src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FIrriagrors%2F&tabs=&width=450&height=200&small_header=false&adapt_container_width=false&hide_cover=false&show_facepile=true&appId" width="450" height="200" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+               <iframe id="mapa"  src="https://www.facebook.com/plugins/page?href=https%3A%2F%2Fwww.facebook.com%2FIrriagrors%2F&tabs=&width=450&height=200&small_header=false&adapt_container_width=false&hide_cover=false&show_facepile=true&appId" width="450" height="200" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
             </section>
     </div>
     <!--  -->

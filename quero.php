@@ -6,8 +6,8 @@
 		<!--  -->
 		<h6 class="heading">Por Onde Começar?</h6>
 		<ul>
-			<li><a href="index.php">Home</a></li>
-			<li><a href="quero.php">Por Onde Começar?</a></li>
+			<li><a href="index">Home</a></li>
+			<li><a href="quero">Por Onde Começar?</a></li>
 			
 		</ul>
 		<!--  -->
@@ -47,7 +47,7 @@
 								<h2 class="titulo">Opções</h2>
 								<p>Se caso não seja possível energia elétrica para funcionamento do sistema o equipamento poderá ser acionado por motores a diesel, grupo gerador ou até mesmo energia solar.</p>
 							</div>
-							<footer><a href="pagar.php">Veja como Pagar <i class="fas fa-angle-right"></i></a></footer>
+							<footer><a href="pagar">Veja como Pagar <i class="fas fa-angle-right"></i></a></footer>
 						
 						</div>
 						

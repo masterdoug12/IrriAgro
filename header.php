@@ -23,7 +23,7 @@
   <header id="header" class="hoc clear"> 
 
     <div id="logo" class="one_quarter first">
-        <h1 class="logo"><a class="navbar-brand" href="index.php"><img src="images/logo_irriagro.png" alt=""></a></h1>
+        <h1 class="logo"><a class="navbar-brand" href="index"><img src="images/logo_irriagro.png" alt=""></a></h1>
     </div>
     <div class="three_quarter">
       <ul class="nospace clear">
@@ -50,19 +50,19 @@
     <!--  -->
     <nav id="mainav">
       <ul class="clear">
-        <li class="active"><a href="index.php">Home</a></li>
-        <li><a class="drop" href="lista_produtos.php">Produtos</a>
+        <li class="active"><a href="index">Home</a></li>
+        <li><a class="drop" href="lista_produtos">Tipos de Irrigação</a>
           <ul>      
-            <li><a href="produto.php">Produto 1</a></li>
-            <li><a href="produto.php">Produto 2</a></li>
-            <li><a href="produto.php">Produto 3</a></li>
-            <li><a href="produto.php">Produto 4</a></li>
+            <li><a href="produto">Aspersão</a></li>
+            <li><a href="produto">Gotejamento</a></li>
+            <li><a href="produto">Pivo Central</a></li>
+            <li><a href="produto">Produto 4</a></li>
            
           </ul>
         </li>
-        <li><a href="empresa.php">A Empresa</a></li>
+        <li><a href="empresa">A Empresa</a></li>
         <li><a href="#">Downloads</a></li>
-        <li><a href="contato.php">Contato</a></li>
+        <li><a href="contato">Contato</a></li>
       </ul>
     </nav>
   </section>

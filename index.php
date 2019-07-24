@@ -11,7 +11,7 @@
       <article>
         <h3 class="heading">Automatize Sua Irrigação</h3>
         <p>Veja nossa soluções</p>
-        <footer><a class="btn" href="lista_produtos.php">Saiba mais <i class="fas fa-angle-right"></i></a></footer>
+        <footer><a class="btn" href="lista_produtos">Saiba mais <i class="fas fa-angle-right"></i></a></footer>
       </article>
   
     </div>
@@ -22,7 +22,7 @@
       <article>   
         <h3 class="heading">Irrigação Sob Medida para você</h3>
         <p>Acesse nossos produtos.</p>
-        <footer><a class="btn" href="contato.php">Entre em contato<i class="fas fa-angle-right"></i></a></footer>
+        <footer><a class="btn" href="contato">Entre em contato<i class="fas fa-angle-right"></i></a></footer>
       </article>
   
     </div>
@@ -34,7 +34,7 @@
  
         <h3 class="heading">Aumente Seu Rendimento</h3>
         <p>Produtos de qualidade </p>
-        <footer><a class="btn" href="lista_produtos.php">Saiba mais <i class="fas fa-angle-right"></i></a></footer>
+        <footer><a class="btn" href="lista_produtos">Saiba mais <i class="fas fa-angle-right"></i></a></footer>
       </article>
   
     </div>
@@ -95,9 +95,9 @@
       <p>Nossa equipe vai até sua propriedade para conhecer as características de sua área e os recursos disponíveis como, agua, energia e a planialtimetria. Faremos um levantamento com GPS para a realização do Pré-projeto, estudo de viabilidade, qual melhor tipo de irrigação para sua necessidade e orçamento.</p>
       <p>  Com base no pré-projeto vamos iniciar os seguintes passos:</p>
       <p class="btmspace-30">...</p>
-      <p><a class="btn" href="quero.php">Leia mais <i class="fas fa-angle-right"></i></a></p>
+      <p><a class="btn" href="quero">Leia mais <i class="fas fa-angle-right"></i></a></p>
     </article>
-    <figure class="two_third"><a class="imgover" href="quero.php"><img src="images/bg3.jpg" alt=""></a></figure>
+    <figure class="two_third"><a class="imgover" href="quero"><img src="images/bg3.jpg" alt=""></a></figure>
 
     <!--  -->
   </section>
@@ -165,29 +165,29 @@
       <p>Texto sobre o produto</p>
     </div>
     <div id="latest" class="group">
-      <article class="one_third first"><a class="imgover" href="#"><img src="images/demo/348x261.png" alt=""></a>
+      <article class="one_third first"><a class="imgover" href="#"><img src="images/aspersao.jpg" alt=""></a>
         <div class="excerpt">
           <h6 class="heading">Produto 1</h6>
           <p>Texto sobre o produto.</p>
-          <footer><a href="produto.php">Leia Mais <i class="fas fa-angle-right"></i></a></footer>
+          <footer><a href="produto">Leia Mais <i class="fas fa-angle-right"></i></a></footer>
         </div>
       </article>
-      <article class="one_third"><a class="imgover" href="#"><img src="images/demo/348x261.png" alt=""></a>
+      <article class="one_third"><a class="imgover" href="#"><img src="images/gotejamento.jpg" alt=""></a>
         <div class="excerpt">
           <h6 class="heading">produto..</h6>
           <p>Texto sobre o produto.</p>
           <footer><a href="#">Leia Mais <i class="fas fa-angle-right"></i></a></footer>
         </div>
       </article>
-      <article class="one_third"><a class="imgover" href="#"><img src="images/demo/348x261.png" alt=""></a>
+      <article class="one_third"><a class="imgover" href="#"><img src="images/bg2.jpg" alt=""></a>
         <div class="excerpt">
           <h6 class="heading">outro produto</h6>
           <p>Texto sobre o produto.</p>
-          <footer><a href="produto.php">Leia Mais <i class="fas fa-angle-right"></i></a></footer>
+          <footer><a href="produto">Leia Mais <i class="fas fa-angle-right"></i></a></footer>
         </div>
       </article>
     </div>
-    <footer class="center"><a class="btn" href="lista_produtos.php">Veja mais produtos<i class="fas fa-angle-right"></i></a></footer>
+    <footer class="center"><a class="btn" href="lista_produtos">Veja mais produtos<i class="fas fa-angle-right"></i></a></footer>
   </section>
 </div>
 <?php 

@@ -6,8 +6,8 @@
 		<!--  -->
 		<h6 class="heading">Como Pagar?</h6>
 		<ul>
-			<li><a href="index.php">Home</a></li>
-			<li><a href="quero.php">Como Pagar</a></li>
+			<li><a href="index">Home</a></li>
+			<li><a href="quero">Como Pagar</a></li>
 			
 		</ul>
 		<!--  -->
