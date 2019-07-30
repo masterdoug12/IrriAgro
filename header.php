@@ -53,16 +53,16 @@
         <li class="active"><a href="index">Home</a></li>
         <li><a class="drop" href="lista_produtos">Tipos de Irrigação</a>
           <ul>      
-            <li><a href="produto">Aspersão</a></li>
-            <li><a href="produto">Gotejamento</a></li>
-            <li><a href="produto">Pivo Central</a></li>
+            <li><a href="aspersao">Aspersão</a></li>
+            <li><a href="gotejamento">Gotejamento</a></li>
+            <li><a href="pivo">Pivo Central</a></li>
            
           </ul>
         </li>
         <li><a href="empresa">A Empresa</a></li>
         <li><a href="porque">Por quê Irrigar</a></li>
         <li><a href="quero">Por onde começar?</a></li>
-        <li><a href="#">Downloads</a></li>
+
         <li><a href="contato">Contato</a></li>
       </ul>
     </nav>

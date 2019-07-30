@@ -26,9 +26,10 @@
 
         <h6>Acesso Rápido</h6>
         <a class = "mapa" href="empresa">Empresa</a><br><br>
-        <a class = "mapa" href="downloads">Downloads</a><br><br>
+        <a class = "mapa" href="porque">Por quê Irrigar</a><br><br>
+        <a class = "mapa" href="quero">Por onde Começar</a><br><br>
+        <a class = "mapa" href="pagar">Como Pagar</a><br><br>
         <a class = "mapa" href="produtos">Produtos</a><br><br>
-
         <a class = "mapa" href="contato">Contato</a><br><br>
      
       
