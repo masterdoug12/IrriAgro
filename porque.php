@@ -22,6 +22,7 @@
     <!-- ################################################################################################ -->
     <div class="content"> 
       <!-- ################################################################################################ -->
+
       <h1>Pastagem</h1>
       <img class="imgr borderedbox inspace-5" src="images/bwg5.jpg" alt="">
       <p>•	Diminui os efeitos da estacionalidade das forrageiras, possibilitando uma taxa de lotação no outono-inverno de até 74% da taxa mantida na primavera-verão, para áreas em regiões tropicais; contra uma relação de apenas 10 a 20 % em áreas de sequeiro. Consequentemente, pode-se utilizar menor área para criação do mesmo número de animais.</p>
@@ -48,28 +49,55 @@
           </thead>
           <tbody>
             <tr>
-              <td><a href="#">Value 1</a></td>
-              <td>Value 2</td>
-              <td>Value 3</td>
-              <td>Value 4</td>
+              <td><a href="#">Extensivo</a></td>
+              <td>4,337</td>
+              <td>1,0</td>
+              <td>0,45</td>
+              <td>6,30</td>
+              <td>R$ 284,00</td>
+        
             </tr>
             <tr>
-              <td>Value 5</td>
-              <td>Value 6</td>
-              <td>Value 7</td>
-              <td><a href="#">Value 8</a></td>
+              <td>Intensivo com Irrigação</td>
+              <td>38,132</td>
+              <td>6,3</td>
+              <td>0,67</td>
+              <td>65,00</td>
+              <td>R$ 2281,00</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <h2 class="titulo">Indicadores de fazendas Leiteras</h2>
+    
+      <div class="scrollable">
+        <table>
+          <thead>
+            <tr>
+              <th>Sistema Intensivo</th>
+              <th>Taxa de Lotação (UA/ha)</th>
+			  <th>Litros(vaca/dia)</th>
+        <th>Litros/ha/ano)</th>
+			  <th>Margem Bruta(R$/ha)</th>
+			  <th>Margem Líquida(R$/ha)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+                 <td>Sequeiro bem manejado</td>
+              <td>4 - 4,3</td>
+              <td>12,0</td>
+              <td>8.000 - 13.000</td>
+              <td>R$ 1.792,00 - R$ 2.912,00</td>
+              <td>R$ 1.232,00 - R$ 2.002,00</td>
             </tr>
             <tr>
-              <td>Value 9</td>
-              <td>Value 10</td>
-              <td>Value 11</td>
-              <td>Value 12</td>
-            </tr>
-            <tr>
-              <td>Value 13</td>
-              <td><a href="#">Value 14</a></td>
-              <td>Value 15</td>
-              <td>Value 16</td>
+              <td>Irrigado</td>
+              <td>12 - 13,5</td>
+              <td>12,0 - 17,0</td>
+              <td>30.000 - 47.000</td>
+              <td>R$ 6.720,00 - R$ 10.528,00 </td>
+              <td>R$ 4.620,00 - R$ 7238.00</td>
             </tr>
           </tbody>
         </table>

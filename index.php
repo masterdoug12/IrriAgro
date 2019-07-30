@@ -9,8 +9,8 @@
     <div id="pageintro" class="hoc clear"> 
   
       <article>
-        <h3 class="heading">Automatize Sua Irrigação</h3>
-        <p>Veja nossa soluções</p>
+        <h3 class="heading">SEJA BEM VINDO A IRRIAGRO</h3>
+        <p>mover a água conscientemente é o nosso negócio!</p>
         <footer><a class="btn" href="lista_produtos">Saiba mais <i class="fas fa-angle-right"></i></a></footer>
       </article>
   
@@ -20,9 +20,9 @@
     <div id="pageintro" class="hoc clear"> 
   
       <article>   
-        <h3 class="heading">Irrigação Sob Medida para você</h3>
+        <h3 class="heading">Atendimento </h3>
         <p>Acesse nossos produtos.</p>
-        <footer><a class="btn" href="contato">Entre em contato<i class="fas fa-angle-right"></i></a></footer>
+        <footer><a class="btn" href="quero">Saiba Como<i class="fas fa-angle-right"></i></a></footer>
       </article>
   
     </div>
@@ -34,11 +34,12 @@
  
         <h3 class="heading">Aumente Seu Rendimento</h3>
         <p>Produtos de qualidade </p>
-        <footer><a class="btn" href="lista_produtos">Saiba mais <i class="fas fa-angle-right"></i></a></footer>
+        <footer><a class="btn" href="porque">Saiba mais <i class="fas fa-angle-right"></i></a></footer>
       </article>
   
     </div>
   </div>
+  
  
 </div>
 <div class="wrapper row3 wow fadeInUp">
@@ -75,8 +76,8 @@
         <p>Amplia o período de produção e permite o escalonamento</p>
       </article>
     </div>
-     <!-- <p class="center"><a class="btn" href="#">Consectetuer porttitor <i class="fas fa-angle-right"></i></a></p>
-    -->
+     <p class="center"><a class="btn" href="porque">Veja Mais motivos <i class="fas fa-angle-right"></i></a></p>
+
     <!-- / main body -->
     <div class="clear"></div>
   </main>
@@ -97,7 +98,7 @@
       <p class="btmspace-30">...</p>
       <p><a class="btn" href="quero">Leia mais <i class="fas fa-angle-right"></i></a></p>
     </article>
-    <figure class="two_third"><a class="imgover" href="quero"><img src="images/bg3.jpg" alt=""></a></figure>
+    <figure class="two_third"><a class="imgover" href="quero"><img id="quero" src="images/bg3.jpg" alt=""></a></figure>
 
     <!--  -->
   </section>
@@ -167,22 +168,24 @@
     <div id="latest" class="group">
       <article class="one_third first"><a class="imgover" href="#"><img src="images/aspersao.jpg" alt=""></a>
         <div class="excerpt">
-          <h6 class="heading">Produto 1</h6>
+          <h6 class="heading">Aspersão</h6>
           <p>Texto sobre o produto.</p>
           <footer><a href="produto">Leia Mais <i class="fas fa-angle-right"></i></a></footer>
         </div>
       </article>
       <article class="one_third"><a class="imgover" href="#"><img src="images/gotejamento.jpg" alt=""></a>
         <div class="excerpt">
-          <h6 class="heading">produto..</h6>
+          <h6 class="heading">Gotejamento</h6>
           <p>Texto sobre o produto.</p>
           <footer><a href="#">Leia Mais <i class="fas fa-angle-right"></i></a></footer>
         </div>
       </article>
       <article class="one_third"><a class="imgover" href="#"><img src="images/bg2.jpg" alt=""></a>
         <div class="excerpt">
-          <h6 class="heading">outro produto</h6>
-          <p>Texto sobre o produto.</p>
+          <h6 class="heading">Pivos</h6>
+          <p>A irrigação por pivô permite aplicar, de maneira precisa, a quantidade necessária de água e fertilizantes em cada cultura, reduzindo os custos operacionais e de mão de obra, e dando resultados excelentes para o produtor. O pivô é indicado para a maioria das culturas sendo mais utilizado em grãos (feijão, milho, soja, etc.).
+
+.</p>
           <footer><a href="produto">Leia Mais <i class="fas fa-angle-right"></i></a></footer>
         </div>
       </article>

@@ -47,6 +47,12 @@
 								<h2 class="titulo">Opções</h2>
 								<p>Se caso não seja possível energia elétrica para funcionamento do sistema o equipamento poderá ser acionado por motores a diesel, grupo gerador ou até mesmo energia solar.</p>
 							</div>
+							<h1>Facilidades</h1>
+      <p>  •	Parcelas anuais acessíveis.</p>
+      <p>•	Fácil instalação independentemente do tipo de energia utilizada.</p>
+      <p>•	Uso e manutenção simples.</p>
+      <p>•	Sistema para qualquer tamanho de área e qualquer tipo de terreno.</p>
+
 							<footer><a href="pagar">Veja como Pagar <i class="fas fa-angle-right"></i></a></footer>
 						
 						</div>

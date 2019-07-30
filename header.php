@@ -56,11 +56,12 @@
             <li><a href="produto">Aspersão</a></li>
             <li><a href="produto">Gotejamento</a></li>
             <li><a href="produto">Pivo Central</a></li>
-            <li><a href="produto">Produto 4</a></li>
            
           </ul>
         </li>
         <li><a href="empresa">A Empresa</a></li>
+        <li><a href="porque">Por quê Irrigar</a></li>
+        <li><a href="quero">Por onde começar?</a></li>
         <li><a href="#">Downloads</a></li>
         <li><a href="contato">Contato</a></li>
       </ul>
