@@ -183,7 +183,7 @@
       <article class="one_third"><a class="imgover" href="#"><img src="images/bg2.jpg" alt=""></a>
         <div class="excerpt">
           <h6 class="heading">Pivos</h6>
-          <p>A irrigação por pivô permite aplicar, de maneira precisa, a quantidade necessária de água e fertilizantes em cada cultura, reduzindo os custos operacionais e de mão de obra, e dando resultados excelentes para o produtor. O pivô é indicado para a maioria das culturas sendo mais utilizado em grãos (feijão, milho, soja, etc.).</p>
+          <p>A irrigação por pivô permite aplicar, de maneira precisa, a quantidade necessária de água e fertilizantes em cada cultura, reduzindo os custos operacionais e de mão de obra, e dando resultados excelentes para o produtor.</p>
           <footer><a href="pivo">Leia Mais <i class="fas fa-angle-right"></i></a></footer>
         </div>
       </article>
