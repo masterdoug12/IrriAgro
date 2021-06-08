@@ -1,0 +1,53 @@
+# Use PHP54
+AddHandler application/x-httpd-php54 .php
+<IfModule mod_suphp.c>
+suPHP_ConfigPath /opt/php54/lib
+</IfModule>
+
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+
+
+#Weebly Additions Start
+ErrorDocument 404 /w_api/Handler.php
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} !^irriagro.com.br [NC]
+RewriteCond %{HTTP_HOST} !^$
+RewriteCond %{HTTPS}:s (on:(s)|off:s)
+RewriteRule ^/?(.*) http%2://irriagro\.com\.br/$1 [L,R=301,NE]
+
+
+
+
+Options 
+RewriteEngine on
+
+RewriteCond %{REQUEST_URI} !-f
+RewriteRule ^ajax/(.*)$	/w_api/Handler.php [L]
+
+RewriteBase /
+RewriteRule ^$ index.html [R=301,L]
+
+
+
+
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /w_api/Handler.php
+
+#Weebly Additions End

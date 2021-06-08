@@ -1,8 +1,131 @@
 <?php 
    include 'header.php';
 ?>
+<script>
+window.onload = function () {
+var el = document.getElementById('fecha');
+
+  el.addEventListener("click", function () {
+    el.parentNode.parentNode.classList.add("hidden");
+});
+
+};
+</script>
+
+<style>
+html, body {
+  padding: 0px;
+  margin: 0px;
+}
+
+.modal-whapper {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  bottom: 0px;
+  right: 0px;
+  z-index: 1003;
+  
+  animation: show 1s linear;
+  -webkit-animation: show 1s linear;
+}
+
+.hidden {
+  display: none;
+}
+
+@keyframes show {
+  0% { opacity: 0 }
+  100% { opacity: 1 }
+}
+
+@-webkit-keyframes show {
+  0% { opacity: 0 }
+  100% { opacity: 1 }
+}
+
+.modal-overlay {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  bottom: 0px;
+  right: 0px;
+  opacity: 0.4;
+  background-color: black;
+}
+
+.modal-container {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  bottom: 0px;
+  right: 0px;
+  margin: auto;
+  height: 300px;
+  width: 560px;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px black;  
+}
+
+.modal-close {
+  position: absolute;
+  top: -16px;
+  right: -16px;
+  width: 32px;
+  height: 32px;
+  cursor: pointer;
+  background-image: url('https://irriagro.com.br/images/cancel.png');
+  background-color: white;
+  background-size: calc(100% - 10px);
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 50%;
+  border: 3px solid black;
+  box-shadow: 0px 0px 10px black;
+}
+
+video {
+  height: 100%;
+  width: 100%;
+  border-radius: 5px;
+  overflow: hidden;
+}
+.vid{
+
+
+  max-height:30% !important;
+  max-width:90%;
+	
+
+}
+
+</style>
 <!--  -->
 <!--  -->
+
+
+
+<div class="modal-whapper ">
+  <div class="modal-overlay">
+
+  </div>
+  <div class="modal-container vid wrapper row3 wow fadeInUp">
+    <div class="modal-content">
+       <div id="fb-root"></div>
+       <script async defer crossorigin="anonymous" src="https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v9.0" nonce="frOuarNc"></script>
+
+  <!-- Your embedded video player code -->
+       <div class="fb-video" data-href="https://www.facebook.com/Irriagrors/videos/183555203523372"  data-show-text="false"><blockquote cite="https://developers.facebook.com/Irriagrors/videos/183555203523372/" class="fb-xfbml-parse-ignore"><a href="https://developers.facebook.com/Irriagrors/videos/183555203523372/">Irriagro sistemas de irrigação</a><p>Empresa especializada em irrigação. Nosso objetivo é atender com excelência nossos clientes a partir de soluções racionais e altamente rentáveis, aliando qualidade e gerando riqueza de forma sustentável.</p>Publicado por <a href="https://www.facebook.com/Irriagrors/">Irriagro sistemas de irrigação</a> em Sábado, 30 de janeiro de 2021</blockquote></div>
+
+    </div>
+    <div id ="fecha" class="modal-close">
+
+    </div>
+  </div>
+</div>
+  
+
 
 <div class="owl-carousel owl-theme">
   <div class="item wrapper bgded overlay" style="background-image:url('images/drop.jpg');">

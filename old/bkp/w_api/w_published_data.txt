@@ -1,0 +1,1 @@
+{"pages":["galerias.html","index.html","quem-somos.html","contato.html"],"protected":{"Inicio":false,"Galerias":false,"Contato":false,"Quem somos":false}}
